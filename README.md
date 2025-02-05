@@ -1,7 +1,7 @@
 🚀 Web Developer | Crafting Stunning & Scalable Web Experiences
 👋 Hi there! I'm Harsh Chouhan, a passionate Web Developer who loves turning ideas into interactive, user-friendly, and high-performance web applications.
 
-💻 What I Do
+💻 What I Do 
 🔹 Frontend Magic: Creating pixel-perfect, responsive, and modern UI/UX.
 🔹 Backend Power: Building robust APIs and scalable backend architectures. 
 🔹 Full-Stack Development: Bridging the gap between frontend and backend seamlessly.
