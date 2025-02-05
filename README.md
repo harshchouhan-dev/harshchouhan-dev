@@ -3,7 +3,7 @@
 
 💻 What I Do
 🔹 Frontend Magic: Creating pixel-perfect, responsive, and modern UI/UX.
-🔹 Backend Power: Building robust APIs and scalable backend architectures.
+🔹 Backend Power: Building robust APIs and scalable backend architectures. 
 🔹 Full-Stack Development: Bridging the gap between frontend and backend seamlessly.
 🔹 Performance & Optimization: Making websites faster and more efficient.
 ⚡ Tech Stack
